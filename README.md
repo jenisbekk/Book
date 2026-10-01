@@ -24,3 +24,7 @@ Data is stored in `data/library.json`.
 - Overdue list
 - Loan history
 - JSON persistence
+## Author
+
+Zhenisbek Umaraliev
+Variant: 2
